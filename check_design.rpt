@@ -1,0 +1,15 @@
+ 
+****************************************
+check_design summary:
+Version:     V-2023.12-SP3
+Date:        Sun Mar 22 02:51:47 2026
+****************************************
+
+                   Name                                            Total
+--------------------------------------------------------------------------------
+Inputs/Outputs                                                      1
+    Shorted outputs (LINT-31)                                       1
+--------------------------------------------------------------------------------
+
+Warning: In design 'router_fsm', output port 'parity_acc_en' is connected directly to output port 'wr_en_global'. (LINT-31)
+1
