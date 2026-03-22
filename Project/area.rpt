@@ -1,0 +1,31 @@
+ 
+****************************************
+Report : area
+Design : router_top
+Version: V-2023.12-SP3
+Date   : Sun Mar 22 02:51:47 2026
+****************************************
+
+Information: Updating design information... (UID-85)
+Library(s) Used:
+
+    lsi_10k (File: /usr/synopsys/syn/V-2023.12-SP3/libraries/syn/lsi_10k.db)
+
+Number of ports:                          285
+Number of nets:                          2648
+Number of cells:                         2301
+Number of combinational cells:           1151
+Number of sequential cells:               630
+Number of macros/black boxes:               0
+Number of buf/inv:                        188
+Number of references:                       6
+
+Combinational area:               2050.000000
+Buf/Inv area:                      200.000000
+Noncombinational area:            6194.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                  8244.000000
+Total area:                 undefined
+1
